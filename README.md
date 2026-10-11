@@ -25,8 +25,8 @@ The project is useful as a beginner-friendly example of a **static personal port
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mmagdym1/One.git
-cd One
+git clone https://github.com/mmagdym1/personal-portfolio-html-css.git
+cd personal-portfolio-html-css
 ```
 
 Open `index.html` in your browser.
