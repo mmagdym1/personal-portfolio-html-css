@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="repo-icon.svg" width="180" alt="Personal Portfolio project icon" />
+</p>
+
 # Personal Portfolio Website — HTML & CSS Web Designer Portfolio
 
 A classic **personal portfolio website template** built with HTML and CSS for showcasing web design, graphic design, online marketing, SEO skills, education, work experience, and contact information.
@@ -25,7 +29,7 @@ The project is useful as a beginner-friendly example of a **static personal port
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mmagdym1/personal-portfolio-html-css.git
+git clone https://github.com/reyad-dev/personal-portfolio-html-css.git
 cd personal-portfolio-html-css
 ```
 
